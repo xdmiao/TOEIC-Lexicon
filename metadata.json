@@ -1,0 +1,7 @@
+{
+  "name": "TOEIC Lexicon AI - Intelligent Business Vocabulary",
+  "description": "A high-end, AI-powered TOEIC vocabulary learning application powered by Gemini, featuring content based on the New Oriental TOEIC Lexicon.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
